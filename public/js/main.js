@@ -1,0 +1,1 @@
+drawHangman(7);

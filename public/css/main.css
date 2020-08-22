@@ -1,0 +1,13 @@
+p {
+    color: #a8a8a8;
+}
+
+input {
+    font-size: 80px;
+    color: #ffffff;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 2px solid #ffffff;
+    width: 80px;
+}
